@@ -1,9 +1,11 @@
 # Facedetection
 
-Face detection with feature points through static image & webcame
+## Face detection with feature points through static image & webcame
 
-Original Image <br />
+### Original Image <br />
+
 ![Original Image](./Praveenraj.jpeg)
 
-Annotated Image <br />
+### Annotated Image <br />
+
 ![Annotated Image](./annotated_image0.png)
