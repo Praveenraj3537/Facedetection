@@ -13,5 +13,5 @@
 
 <kbd>
 <!-- ![Annotated Image](./annotated_image0.png) -->
-<img style='border: 2px solid black' src='./annotated_image0.png'>
+<img src='./annotated_image0.png' style="border: 2px solid black">
 </kbd>
