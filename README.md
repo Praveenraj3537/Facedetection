@@ -1,6 +1,6 @@
 # Facedetection
 
-Face detection with feature points through webcame
+Face detection with feature points through static image & webcame
 
 ![Original Image](./Praveenraj.jpeg)
 
